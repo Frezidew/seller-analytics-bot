@@ -1,0 +1,11 @@
+__pycache__/
+.idea/
+.vscode/
+.venv/
+.env*
+*.sqlite*
+*.db
+*.pem
+*.ppk
+*.key
+*.json
